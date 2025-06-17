@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad356875-3ecb-4758-962b-86cd0b7774d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AccessSpecifier/src/test/java/p4/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/java/com/sgtesting/pageobjectmodel/ActiTimePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/resources/FeatureFiles/scenario3.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/resources/FeatureFiles/scenario4.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/resources/FeatureFiles/scenario5.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/resources/FeatureFiles/scenario6.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/resources/FeatureFiles/scenario7.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiTimeAutomation/src/test/resources/FeatureFiles/scenario8.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationProtoType/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationProtoType/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationProtoType/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationProtoType/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationProtoType/src/main/java/com/sgtesting/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutomationProtoType/src/test/java/com/sgtesting/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation/src/main/java/com/sgtesting/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation/src/test/java/com/sgtesting/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation1/src/main/java/com/sgtesting/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Automation1/src/test/java/com/sgtesting/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testng_Automation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testng_Automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testng_Automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testng_Automation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testng_Automation/src/main/java/com/sgtesting/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testng_Automation/src/test/java/com/sgtesting/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/sgtesting/actiTime/stepdefinations/StepDefinations.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yRRIlmCzRRY16uKEmPeB7lvRxe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: AdvancedScenario1.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: CreateAndDeleteCustomerAndProjectAndTask.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: CreateAndDeleteCustomerProjectTask.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: CreateAndDeleteUser.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: ImportTask.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: Scenario1.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Create And Delete Both the Customer And project And Also Task.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Create And Delete the Customer And project And Also The Task.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ActiTime-Automation [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.F:/GitQARepository2/CurrentWorkspace/Raki9153-FullStackQAMar14th2025Repository/ActiTime-Automation/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;qabranch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;F:/GitQARepository2/CurrentWorkspace/Raki9153-FullStackQAMar14th2025Repository/ActiTime-Automation/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitQARepository2/CurrentWorkSpace/FullStackQAMar14th2025Repository/ActiTime-Automation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sgtesting.pageobjectmodel" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sgtesting.pageobjectmodel" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.F:/GitQARepository2/CurrentWorkspace/Raki9153-FullStackQAMar14th2025Repository/ActiTime-Automation/testng.xml">
+    <configuration name="Feature: AdvancedScenario1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureFiles/AdvancedScenario1.feature" />
+      <option name="GLUE" value="com.sgtesting.actiTime.stepdefinations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ActiTime-Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AdvancedScenario1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: ImportTask" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureFiles/ImportTask.feature" />
+      <option name="GLUE" value="com.sgtesting.actiTime.stepdefinations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ActiTime-Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ImportTask" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Scenario1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureFiles/Scenario1.feature" />
+      <option name="GLUE" value="com.sgtesting.actiTime.stepdefinations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ActiTime-Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Scenario1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Create And Delete Both the Customer And project And Also Task" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureFiles/CreateAndDeleteCustomerAndProjectAndTask.feature" />
+      <option name="GLUE" value="com.sgtesting.actiTime.stepdefinations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ActiTime-Automation" />
+      <option name="NAME_FILTER" value="^Create And Delete Both the Customer And project And Also Task$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create And Delete Both the Customer And project And Also Task$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create And Delete Both the Customer And project And Also Task" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/GitQARepository2/CurrentWorkspace/Raki9153-FullStackQAMar14th2025Repository/ActiTime-Automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActiTime-Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.F:/GitQARepository2/CurrentWorkspace/Raki9153-FullStackQAMar14th2025Repository/ActiTime-Automation/testng.xml" />
+        <item itemvalue="Cucumber Java.Feature: Scenario1" />
+        <item itemvalue="Cucumber Java.Feature: AdvancedScenario1" />
+        <item itemvalue="Cucumber Java.Feature: ImportTask" />
+        <item itemvalue="Cucumber Java.Scenario: Create And Delete Both the Customer And project And Also Task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad356875-3ecb-4758-962b-86cd0b7774d5" name="Changes" comment="" />
+      <created>1749795329480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749795329480</updated>
+    </task>
+    <servers />
+  </component>
+</project>
